@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Surpresa Especial</title>
+    <meta http-equiv="refresh" content="0; url='https://drive.google.com/uc?export=download&id=1OqeX5FqFYwF0sHWLniHrJVOQl9Nivs00'" />
+</head>
+<body>
+    <h1>😱 Você encontrou um segredo especial! 😱</h1>
+    <audio autoplay>
+        <source src="https://drive.google.com/uc?export=download&id=1OqeX5FqFYwF0sHWLniHrJVOQl9Nivs00" type="audio/mpeg">
+        Seu navegador não suporta a reprodução automática de áudio.
+    </audio>
+</body>
+</html>
